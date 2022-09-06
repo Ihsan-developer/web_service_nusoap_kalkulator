@@ -1,0 +1,9 @@
+{
+    "require": {
+        "econea/nusoap": "^0.9.12"
+    },
+    "config": {
+        "disable-tls": false,
+        "secure-http": true
+    }
+}
